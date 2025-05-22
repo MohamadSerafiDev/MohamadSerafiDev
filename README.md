@@ -8,60 +8,71 @@
 
 <h1 align="center">Hi, I'm Mohamad 👋</h1>
 
+
 <p align="center">
   I'm a Syrian developer studying Software Engineering.  
   I create and develop mobile apps and web apps using Flutter.
 </p>
 
+
+
 ---
+
+
 
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Dart -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="80" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" />
+  <!-- Flutter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80" />
   
+  <!-- Bloc -->
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" width="80" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" />
+  <!-- Cubit -->
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/cubit_logo_full.png" width="80" />
   
+  <!-- Android -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="80" />
   
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" width="30" />
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80" />
   
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" />
   
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/cubit_logo_full.png" width="30" />
+  <!-- Firebase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="80" />
   
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" />
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" />
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" />
-  
-  
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/public/img/supabase-logo-icon.png" width="30" />
+  <!-- Supabase -->
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/public/img/supabase-logo-icon.png" width="80" />
 </p>
+
+
 
 ---
 
+
+
 ### 📫 Contact Me
+
 
 <p align="center">
   <a href="mailto:mohamad1serafi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=mohamad1serafi@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/mhd_serafii/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/mhd_serafii?igsh=MW4zaHp4cDljM2o2Zg==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/mohamad.sirafe.7">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
   </a>
   <a href="https://t.me/m12340w">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
   </a>
 </p>
+
 
