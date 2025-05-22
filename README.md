@@ -30,13 +30,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80" />
   
   <!-- Bloc -->
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" width="80" />
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc.png" width="80" />
   
-  <!-- Cubit -->
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/cubit_logo_full.png" width="80" />
+  <!-- Vscode -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80" />
   
   <!-- Android -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="80"/>
   
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80" />
@@ -45,10 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" />
   
   <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="80" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="80" />
   
   <!-- Supabase -->
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/public/img/supabase-logo-icon.png" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" width="80"/>
+
 </p>
 
 
