@@ -31,6 +31,9 @@
   
   <!-- Bloc -->
   <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc.png" width="120" style="margin: 10px;" />
+
+  <!-- Provider -->
+  <img src="https://camo.githubusercontent.com/0977fd183be878db6b1bff82fa0a3d10f282f001265dbcb7e64ed22930ebe448/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f76696465722d3543364243303f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465" width="80" style="margin: 10px;" />
   
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80" style="margin: 10px;" />
